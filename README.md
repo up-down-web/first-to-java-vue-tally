@@ -1,2 +1,1 @@
-# first-to-java-vue-tally
-First to java (spring-boot-2), vue2. A tally website.
+## 用java（spring boot 2） + vue 2做记账网页
